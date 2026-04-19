@@ -32,6 +32,6 @@ pip install sympy numpy
 
 ## Author
 
-Sabri Vatansever
-Boğaziçi University - Physics (MSc)
+Sabri Vatansever  
+Boğaziçi University - Physics (MSc)  
 GitHub: https://github.com/sabrivatansever

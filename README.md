@@ -1,4 +1,4 @@
-# Quantum J Operator Toolkit
+# Quantum J Toolkit
 
 A Python-based computational toolkit for exploring angular momentum operators in quantum mechanics.
 
@@ -27,10 +27,11 @@ Install dependencies:
 
 ```bash
 pip install sympy numpy
-
+```
 ---
 
 ## Author
 
 Sabri Vatansever
+Boğaziçi University - Physics (MSc)
 GitHub: https://github.com/sabrivatansever
